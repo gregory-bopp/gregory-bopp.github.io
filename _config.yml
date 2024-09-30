@@ -1,0 +1,21 @@
+title: Gregory Bopp
+author: Gregory Bopp
+
+# url is your gh-pages base, following the pattern: username.github.io
+url: https://gregory-bopp.github.io
+
+# personal urls
+bio: "Statistics, PhD"
+github: https://github.com/gregory-bopp
+school: https://science.psu.edu/stat
+orcid: https://orcid.org/0000-0002-0050-7122
+
+
+# Use Bootstrap (true, false)
+bootstrap: true
+# Use optional Bootstrap JS (true, false)
+bootstrap-js: true
+# Use JQuery Core
+jquery: true
+# Use fontawesome CDN (true, false)
+fontawesome: true
