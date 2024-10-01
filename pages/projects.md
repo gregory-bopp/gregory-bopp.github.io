@@ -4,7 +4,7 @@ layout: page
 permalink: projects.html
 ---
 
-## Characterization of SARS-CoV-2 Aerosols Dispersed During Noninvasive Respiratory Support of Patients With COVID-19.
+## Characterization of SARS-CoV-2 Aerosols Dispersed During Noninvasive Respiratory Support of Patients With COVID-19
 
 COVID-19, caused by SARS-CoV-2, was declared a pandemic in March 2020, primarily spreading through respiratory particles. Noninvasive respiratory support (NRS) therapies, like high-flow nasal cannula (HFNC) and noninvasive ventilation (NIV), were crucial for patient care, yet their impact on aerosol dispersion was unclear. Previous studies have shown varying levels of aerosol dispersal during NRS use, but many indicated limited evidence of increased risk, especially concerning COVID-19. This study aimed to assess aerosol dispersion from COVID-19 patients using NRS therapies through air sample collection and controlled measurements. The findings will help inform clinical practices and safety protocols for healthcare providers.
 
