@@ -12,7 +12,7 @@ Ramsey, M. E., Faugno, A. J., Puryear, W. B., Lee, B. C., Foss, A. D., Lambert, 
 
 ## Max-Infinitely Divisible Spatial Model for Extremes
 
-Traditional models for dependent extremes, max-stable processes, are unable to capture weakening spatial dependence at extreme levels. This research investigages a new class of hierarchical Bayesian models that can span both asymptotic dependence and independence classes. The model enables scalable inference for large datasets and accurately identifies intrinsic spatial patterns of extremes, akin to the way that principal component analysis identifies the directions of greatest variability about the mean.
+Traditional models for dependent extremes, max-stable processes, are unable to capture weakening spatial dependence at extreme levels. This research investigates a new class of hierarchical Bayesian models that can span both asymptotic dependence and independence classes. The model enables scalable inference for large datasets and accurately identifies intrinsic spatial patterns of extremes, akin to the way that principal component analysis identifies the directions of greatest variability about the mean.
 
 <img src="../assets/img/max-id.png" alt="Alt text" style="width:100%; height:auto;">
 
