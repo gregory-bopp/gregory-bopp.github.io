@@ -14,7 +14,7 @@ Ramsey, M. E., Faugno, A. J., Puryear, W. B., Lee, B. C., Foss, A. D., Lambert, 
 
 Traditional models for dependent extremes, max-stable processes, are unable to capture weakening spatial dependence at extreme levels. This research investigages a new class of hierarchical Bayesian models that can span both asymptotic dependence and independence classes. The model enables scalable inference for large datasets and accurately identifies intrinsic spatial patterns of extremes, akin to the way that principal component analysis identifies the directions of greatest variability about the mean.
 
-<img src="../assets/img/max-id.png", alt="max-id" width="50%"/>
+<img style="display: block; margin: auto;" src="../assets/img/max-id.png"/>
 
 
 **Bopp, G. P.**, Huser, R., Shaby, B. A. (2021). A Hierarchical Max-Infinitely Divisible Spatial Model for Extreme Precipitation. Journal of the American Statistical Association, DOI: 10.1080/01621459.2020.1750414.  [`https://doi.org/10.1080/01621459.2020.1750414`](https://doi.org/10.1080/01621459.2020.1750414)
