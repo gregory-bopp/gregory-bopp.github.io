@@ -17,5 +17,5 @@ Traditional models for dependent extremes, max-stable processes, are unable to c
 <img src="../assets/img/max-id.png" alt="Alt text" style="width:100%; height:auto;">
 
 
-**Bopp, G. P.**, Huser, R., Shaby, B. A. (2021). A Hierarchical Max-Infinitely Divisible Spatial Model for Extreme Precipitation. Journal of the American Statistical Association, DOI: 10.1080/01621459.2020.1750414.  [`https://doi.org/10.1080/01621459.2020.1750414`](https://doi.org/10.1080/01621459.2020.1750414)
+**Bopp, G. P.**, Huser, R., Shaby, B. A. (2021). A Hierarchical Max-Infinitely Divisible Spatial Model for Extreme Precipitation. Journal of the American Statistical Association, [`https://doi.org/10.1080/01621459.2020.1750414`](https://doi.org/10.1080/01621459.2020.1750414)
 

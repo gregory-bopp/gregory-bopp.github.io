@@ -8,7 +8,7 @@ permalink: publications.html
 
 Ramsey, M. E., Faugno, A. J., Puryear, W. B., Lee, B. C., Foss, A. D., Lambert, L. H., Frances, F. E., **Bopp, G. P.** & Hill, N. S. (2023). Characterization of SARS-CoV-2 Aerosols Dispersed During Noninvasive Respiratory Support of Patients With COVID-19. Respiratory Care, 68(1), 8-17. [`https://doi.org/10.4187/respcare.10340`](https://doi.org/10.4187/respcare.10340)
 
-**Bopp, G. P.**, Huser, R., Shaby, B. A. (2021). A Hierarchical Max-Infinitely Divisible Spatial Model for Extreme Precipitation. Journal of the American Statistical Association, DOI: 10.1080/01621459.2020.1750414.  [`https://doi.org/10.1080/01621459.2020.1750414`](https://doi.org/10.1080/01621459.2020.1750414)
+**Bopp, G. P.**, Huser, R., Shaby, B. A. (2021). A Hierarchical Max-Infinitely Divisible Spatial Model for Extreme Precipitation. Journal of the American Statistical Association. [`https://doi.org/10.1080/01621459.2020.1750414`](https://doi.org/10.1080/01621459.2020.1750414)
 
 **Bopp, G. P.**, Shaby, B. A., Forest, C. E., Mejia, A. (2020). Projecting Flood-Inducing Precipitation with a Bayesian Analogue Model. Journal of Agricultural, Biological and Environmental Statistics, 25(2), 229-249. [`https://doi.org/10.1007/s13253-020-00391-6`](https://doi.org/10.1007/s13253-020-00391-6)
 
