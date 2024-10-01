@@ -7,7 +7,7 @@ layout: page
 
 My statistical interests include Bayesian hierarchical modeling, inference for dynamical systems, experimental design, and spatio-temporal statistics. I am especially interested in applications of statistics that build upon our knowledge of biological and physical systems. I have worked on a diverse set of problems in government and industry settings. These have included topics such as:
  
- - Characterizing the degree to which high-flow nasal cannula devices produce and disperse aerosols over time.
+ - Characterizing the degree to which the use of high-flow nasal cannula devices disperse SARS-CoV-2 aerosols when being used to support of patients with COVID-19.
  - Exploring how fish growth and population dynamics are influenced by spatially varying factors governing nutrient bioavailabilty.
  - Spatio-temporal dependence modeling of extreme wind speeds, temperatures, and precipitation.
 

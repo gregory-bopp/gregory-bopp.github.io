@@ -4,7 +4,7 @@ layout: page
 permalink: publications.html
 ---
 
-### Journal Articles
+## Journal Articles
 
 Ramsey, M. E., Faugno, A. J., Puryear, W. B., Lee, B. C., Foss, A. D., Lambert, L. H., Frances, F. E., **Bopp, G. P.** & Hill, N. S. (2023). Characterization of SARS-CoV-2 Aerosols Dispersed During Noninvasive Respiratory Support of Patients With COVID-19. Respiratory Care, 68(1), 8-17. [`https://doi.org/10.4187/respcare.10340`](https://doi.org/10.4187/respcare.10340)
 
